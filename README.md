@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Vladyslav 👋
 
-<!--
-**codatama/codatama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at Studienkolleg TUDIAS (TU Dresden)  
+💻 Backend Developer | DevOps Enthusiast | Telegram API  
+🇩🇪 Based in Germany, open to part-time (Teilzeit) opportunities
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+**Languages:** Golang, C#/.NET, Python, Java  
+**Databases:** PostgreSQL, MongoDB, Redis, OracleSQL  
+**DevOps:** Docker (Compose, containerization), Linux (Ubuntu, Arch – setup & server maintenance), Bash scripting  
+**APIs:** REST, Telegram Bot API, Telegram API (MTProto), Spring Boot
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white&style=flat)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Projects
+- 🧠 NFT Auto-Buyer Bot (Golang + Telegram API)  
+- 💬 Dating Bot (C# + PostgreSQL + Haversine formula)  
+- 📚 Quiz Bot (C# + MongoDB + PDF parser)  
+- 🔧 REST API demo (Java + Spring Boot)
+
+📫 Contact: [kannatama@outlook.com]  
+📂 Repositories below showcase my practical work. Happy to walk you through the code during interviews.
