@@ -1,4 +1,4 @@
-# Hi, I'm Vladyslav 👋
+# Hi, I'm Vladyslav
 
 🎓 Student at Studienkolleg TUDIAS (TU Dresden)  
 💻 Backend Developer | DevOps Enthusiast | Telegram API  
