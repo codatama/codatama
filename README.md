@@ -5,15 +5,14 @@
 🇩🇪 Based in Germany, open to part-time (Teilzeit) opportunities
 
 ## 🔧 Tech Stack
-**Languages:** Golang, C#/.NET, Python, Java  
-**Databases:** PostgreSQL, MongoDB, Redis, OracleSQL  
-**DevOps:** Docker (Compose, containerization), Linux (Ubuntu, Arch – setup & server maintenance), Bash scripting  
+**Languages:** Golang, C#/.NET, Python  
+**Databases:** PostgreSQL, MongoDB, OracleSQL  
+**DevOps:** Docker (Compose, containerization), Linux (Ubuntu, Arch - setup & server maintenance), Bash scripting  
 **APIs:** REST, Telegram Bot API, Telegram API (MTProto), Spring Boot
 
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white&style=flat)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
