@@ -20,8 +20,7 @@
 
 
 ## 🚀 Projects
-- 🧠 NFT Auto-Buyer Bot (Golang + Telegram API)    
-- 📚 Quiz Bot (C# + MongoDB + PDF parser)  
+- 🧠 NFT Auto-Buyer Bot (Golang + Telegram API)
 
 📫 Contact: [kannatama@outlook.com]  
 📂 Repositories below showcase my practical work. Happy to walk you through the code during interviews.
